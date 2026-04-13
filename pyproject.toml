@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "git-filter-repo>=2.47.0",
+    "nltk>=3.9.4",
     "pandas>=3.0.2",
     "requests>=2.32.5",
 ]
